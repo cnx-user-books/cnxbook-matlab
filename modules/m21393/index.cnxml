@@ -1,0 +1,27 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An Introduction to MATLAB: Running MATLAB (PC)</title>
+  <metadata>
+  <md:content-id>m21393</md:content-id><md:title>An Introduction to MATLAB: Running MATLAB (PC)</md:title>
+  <md:abstract/>
+  <md:uuid>ec6c13c1-d10c-4388-a915-7883578f7ab6</md:uuid>
+</metadata>
+
+<content>
+    <note id="eip-164">This module is part of the collection, <emphasis effect="italics">A First Course in Electrical and Computer Engineering</emphasis>. The LaTeX source files for this collection were created using an optical character recognition technology, and because of this process there may be more errors than usual. Please contact us if you discover any errors.
+</note><para id="id2258263">In order to run MATLAB (Version 3.5) on an IBM or compatible personal computer, you must have a floating point math coprocessor <m:math overflow="scroll"><m:mrow><m:mo>(</m:mo><m:mn>80</m:mn><m:mi mathvariant="normal">x</m:mi><m:mn>87</m:mn><m:mo>)</m:mo></m:mrow></m:math>installed and at least 512 kbytes of memory. The program is called PCMAT-LAB.EXE, but it is usually invoked via the batch file MATLAB.BAT in the MATLAB subdirectory. If you are using a menu system and MATLAB is one of your choices, just choose it. Otherwise, go to the MATLAB suiUirectory and type MATLAB.</para>
+    <para id="id2258938">You may be able to usea more powerful implementation of MATLAB
+if you have an 80286 or 80386 machine. AT-MATLAB runs on an 80286
+with at least 1 Mbyte of extended memory. AT-MATLAB is distributed with
+PC-MATLAB. 386-MATLAB, a special version for 80386 or 80486 machines
+with virtual memory support and no limits on variable size, is sold separately.</para>
+    <para id="id2258947">When you run MATLAB, you should see the prompt <m:math overflow="scroll"><m:mo>≫</m:mo></m:math>. The program interpreter is waiting for you to enter instructions. Some MATLAB
+instructions, such as plot, are graphics-type instructions which plot results
+and data. Execution of one of these graphics instructions puts the PC screen
+into the <emphasis effect="italics">graphics mode</emphasis>, which displays the resulting plot. No instructions can
+be executed in the graphics mode other than a screen-dump function. Striking any other key will return the PC to the <emphasis effect="italics">command mode</emphasis>, but the graphics
+are temporarily stored (like variables) and can be recalled by the <emphasis effect="bold">shg</emphasis> (show
+graphics) instruction. If you wish, you may run some of the demonstration
+programs now by entering demo and following the on-screen instructions.
+</para>
+  </content>
+</document>

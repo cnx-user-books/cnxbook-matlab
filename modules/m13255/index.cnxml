@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An Introduction to MATLAB</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>b89357f1-d1b3-4e58-826d-5789bcc702aa</md:uuid>
+</metadata>
+<content>
+  <para id="p1">
+    MATLAB, short for Matrix Laboratory, is a simple and flexible
+		programming environment for a wide range of problems such as signal
+		processing, optimization, linear programming and so on. The basic
+		MATLAB software package can be extended by using add-on toolboxes.
+		Examples of such toolboxes are: Signal Processing, Filter Design, Statistics
+		and Symbolic Math.</para>
+
+	<para id="p2">
+		Comprehensive documentation for MATLAB is available at <link url="http://www.mathworks.com">Mathworks.com</link>.
+		In particular, an excellent (extensive) getting started guide is available at
+		<link url="http://www.mathworks.com/access/helpdesk/help/pdf_doc/matlab/getstart.pdf">Getting started with MATLAB</link>.
+		There is also a very active newsgroup for MATLAB related questions,
+		<emphasis>comp.soft-sys.matlab</emphasis></para>
+
+	<para id="p3">
+		MATLAB is an interpreted language. This implies that the source code is
+		not compiled but interpreted on the fly. This is both an advantage and a
+		disadvantage. MATLAB allows for easy numerical calculation and
+		visualization of the results without the need for advanced and time
+		consuming programming. The disadvantage is that it can be slow,
+		especially when bad programming practices are applied.
+	</para>   
+</content>
+</document>

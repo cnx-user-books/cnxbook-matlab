@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An Introduction to MATLAB: Running MATLAB (Macintosh)</title>
+  <metadata>
+  <md:content-id>m21394</md:content-id><md:title>An Introduction to MATLAB: Running MATLAB (Macintosh)</md:title>
+  <md:abstract/>
+  <md:uuid>d9530289-627c-45e9-92a6-970a10c4dc1b</md:uuid>
+</metadata>
+
+<content>
+    <note id="eip-98">This module is part of the collection, <emphasis effect="italics">A First Course in Electrical and Computer Engineering</emphasis>. The LaTeX source files for this collection were created using an optical character recognition technology, and because of this process there may be more errors than usual. Please contact us if you discover any errors.
+</note><para id="id2258263">In order to run MATLAB on a Macintosh SE or PLUS computer, you need the program called EDU-MATLAB. The program requires at least 1 Mbyte of memory, System 3.0 or above, Finder version 3.0 or above, and an 800K drive. A hard disc drive is highly recommended. In order to run MATLAB on a Macintosh II, IIx, IIcx, or <m:math overflow="scroll"><m:mrow><m:mi mathvariant="normal">S</m:mi><m:mi mathvariant="normal">E</m:mi><m:mo>/</m:mo><m:mn>30</m:mn></m:mrow></m:math>, you need the program called MacII-MATLAB, and the same system requirements apply.</para>
+    <para id="id2258937">To start MATLAB, you may need to open the folder containing the MATLAB program. Then just “double-click” the program icon or the program name (for example, EDU-MATLAB). Figure A.1 shows a typical organization of the folder containing Mac II-MATLAB. It contains the main program, the settings file, the demonstrations folder, and any toolbox folders. The double-click on Mac II-MATLAB produces the <emphasis effect="italics">Command</emphasis> window as shown in Figure A.2. You will also see a <emphasis effect="italics">Graph</emphasis> window partially hidden behind it. (The fact that the window is not in ffont means that it is opened but not currently active.) If you do not know what “clicking,” “dragging,” “pop-up menu,” and “trash” mean, you should stop reading now and familiarize yourself with the Macintosh.</para>
+    <figure id="uid1"><media id="uid1_media" alt="An image of an old Macintosh computer screen showing the MATLAB folder">
+        <image mime-type="image/png" src="../../media/image002.png" id="uid1_onlineimage" width="265"><!-- NOTE: attribute width changes image size online (pixels). original width is 265. --></image>
+        <image for="pdf" mime-type="application/postscript" src="../../media/image002-d2cb.eps" id="uid1_printimage" print-width="93.47mm">
+<!--NOTE: attribute width changes image size in printed PDF (if specified in .tex file)-->
+        </image>
+      </media>
+      
+    <caption>The MATLAB Folder (©Apple Computer, Inc., used with permission.)</caption></figure>
+    <para id="id2258993">In the command window, you should see the prompt <m:math overflow="scroll"><m:mo>≫</m:mo></m:math>. The program interpreter is waiting for you to enter instructions. At this point it is a good idea to run the demonstration programs that are available in the “About MATLAB” menu under the Apple menu. Just click on the “demos” button and select a demo. During pauses, strike any key to continue. Whenever you have a MATLAB file in any folder, then you may double-click the file to launch the program. This allows you to have your own folder containing your own MATLAB files, separated from the MATLAB folder.</para>
+    <figure id="uid2"><media id="uid2_media" alt="A view of a Macintosh computer screen with a command line window for MATLAB">
+        <image mime-type="image/png" src="../../media/image003.png" id="uid2_onlineimage" width="268"><!-- NOTE: attribute width changes image size online (pixels). original width is 268. --></image>
+        <image for="pdf" mime-type="application/postscript" src="../../media/image003-a01f.eps" id="uid2_printimage" print-width="94.49mm">
+<!--NOTE: attribute width changes image size in printed PDF (if specified in .tex file)-->
+        </image>
+      </media>
+      
+    <caption>The Command Window (©Apple Computer, Inc., used with permission.)</caption></figure>
+    <para id="id2259038">MATLAB has four types of windows:</para>
+<list id="fs-id11824742" list-type="enumerated" number-style="lower-roman"><item><emphasis effect="italics">Command</emphasis> for computing, programming, and designing input/output displays;</item>
+    <item><emphasis effect="italics">Graph</emphasis> for displaying plots and graphs;</item>
+    <item><emphasis effect="italics">Edit</emphasis> for creating and modifying your own files; and</item>
+    <item><emphasis effect="italics">Help</emphasis> for getting on-line help and for running demos.</item></list>
+    <para id="id2259078">All windows follow the traditional behavior of Macintosh windows. You can
+resize them (actually the help window has a fixed size) or move them. For more
+details on menus and windows, see the Macintosh and MATLAB manuals.</para>
+  </content>
+</document>
