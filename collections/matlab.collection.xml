@@ -1,3 +1,17 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11141</md:content-id>  <md:title>MatLab</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>1c6d203c-2430-4895-99a2-e1eca99ee795</md:uuid>
-<md:slug>matlab</md:slug>
-</metadata>  <col:content>          <col:module document="m13255"/>                            <col:module document="m21394"/>                            <col:module document="m21393"/>                            <col:module document="m13554"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Serhat Beyenir">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11141</md:content-id>
+    <md:title>MatLab</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1c6d203c-2430-4895-99a2-e1eca99ee795</md:uuid>
+    <md:slug>matlab</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m13255"/>
+    <col:module document="m21394"/>
+    <col:module document="m21393"/>
+    <col:module document="m13554"/>
+  </col:content>
+</col:collection>
